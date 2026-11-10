@@ -1,0 +1,15 @@
+
+{
+  "name": "esu-teste-um-real",
+  "compatibility_date": "2026-11-10",
+  "main": "./worker-teste.js",
+  "rules": [
+    {
+      "type": "Data",
+      "globs": [
+        "**/IMG_0722.png"
+      ],
+      "fallthrough": true
+    }
+  ]
+}
