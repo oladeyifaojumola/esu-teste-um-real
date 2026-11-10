@@ -1,6 +1,7 @@
 
 {
-  "name": "esu-teste-um-real",
+// wrangler.jsonc
+"name": "esu-teste-um-real",
   "compatibility_date": "2026-11-10",
   "main": "./worker-teste.js",
   "rules": [
